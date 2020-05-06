@@ -15,3 +15,13 @@ o	Graphical display number of open issue per each project during selected period
 o	Graphical display number of closed issue per each project during selected period of time (one week, two weeks, one month).
 
 
+
+
+
+LOGIN Credential
+
+
+User: Stan
+Password: john
+
+
