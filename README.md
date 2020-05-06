@@ -2,7 +2,7 @@
 The aim is to design, develop with database Queries and test a bug tracking system.  
 
 Contents: 
-o Database Design: Conceptual ERD, Logical ERD  Database tables System 
+o Database Design: Conceptual ERD, Logical ERD  Database tables System
 o Implementation: Design and development of the management and tracking system using a database management system and application development environment with Microsoft Access.
 o	Database tables definitions (includes attributes, primary and foreign keys).
 
